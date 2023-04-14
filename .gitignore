@@ -9,3 +9,5 @@ build
 gradlew
 gradlew.bat
 gradle
+
+test_msg.txt
